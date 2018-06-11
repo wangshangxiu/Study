@@ -1,0 +1,9 @@
+#ifndef CALLCONSTRUCTION_H
+#define CALLCONSTRUCTION_H
+class CALLCONSTRUCTION {
+public:
+	CALLCONSTRUCTION(int i);
+	~CALLCONSTRUCTION();
+	void function1();
+};
+#endif// CALLCONSTRUCTION_H
